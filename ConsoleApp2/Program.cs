@@ -13,12 +13,9 @@ namespace ConsoleApp2
             switch (a)
             {
                 case 1:
-                    Console.WriteLine(" ==== 1");
-                    break;
                 case 2:
-                    Console.WriteLine("======== 2");
+                    Console.WriteLine(" ==== 1 or 2");
                     break;
-
                 default:
                     Console.WriteLine("no var");
                     break;
